@@ -1,9 +1,4 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hrace009&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrace009&layout=default&theme=cobalt)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrace009.hrace009)
 
 <!--
 **hrace009/hrace009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrace009.hrace009)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hrace009&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrace009&layout=default&theme=cobalt)
