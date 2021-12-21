@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrace009.hrace009)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hrace009&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrace009&layout=default&theme=cobalt)
