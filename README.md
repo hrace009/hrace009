@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harris.marfel@outlook.com**
 
-- 📄 Know about my experiences [https://glints.com/id/profile/public/f7219768-b09d-446e-9c5f-975709b63e54](https://glints.com/id/profile/public/f7219768-b09d-446e-9c5f-975709b63e54)
+- 📄 Know about my experiences Check my [Linked](https://www.linkedin.com/in/harris-yogasara/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
