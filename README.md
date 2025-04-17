@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harris Yogasara</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A highly motivated and fast learner, working in the Information Technology, IT Security, oil and gas industries. Interested in IT & Gaming Development with a Bachelor's degree focused in IT System Administrator, PHP Laravel Framework and Wordpress CMS and Perfect World MMORPG Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrace009&label=Profile%20views&color=0e75b6&style=flat" alt="hrace009" /> </p>
