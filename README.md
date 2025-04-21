@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **harris.marfel@outlook.com**
 
-- 📄 Know about my experiences Check my [Linked](https://www.linkedin.com/in/harris-yogasara/)
+- 📄 Know about my experiences Check my [Linked](https://www.linkedin.com/in/hrace009/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hrace009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrace009" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harris-yogasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harris-yogasara" height="30" width="40" /></a>
-<a href="https://fb.com/harris.marfel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harris.marfel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hrace009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrace009" height="30" width="40" /></a>
+<a href="https://fb.com/harris.marfel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hrace009" height="30" width="40" /></a>
 <a href="https://instagram.com/hrace009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrace009" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hrace009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hrace009" height="30" width="40" /></a>
 </p>
