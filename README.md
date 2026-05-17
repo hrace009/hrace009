@@ -17,10 +17,7 @@ I build tools and projects around backend development, automation, Linux systems
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 
 ## 🌟 Featured repositories
 
