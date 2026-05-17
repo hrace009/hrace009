@@ -18,6 +18,11 @@ I build tools and projects around backend development, automation, Linux systems
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?logo=daisyui&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white&style=flat)
+![Dashboard](https://img.shields.io/badge/Dashboard-0078D4?logo=microsoftazure&logoColor=white&style=flat)
 
 ## 🌟 Featured repositories
 
