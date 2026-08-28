@@ -1,0 +1,39 @@
+# Menghasilkan animasi "snake" dari contribution graph dan
+# menyimpannya sebagai SVG di branch `output`.
+# Letakkan file ini di: .github/workflows/snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Jalan setiap 12 jam (UTC). 00:00 UTC = 07:00 WIB.
+    - cron: "0 */12 * * *"
+  workflow_dispatch:   # bisa dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Buat SVG snake (light & dark)
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push hasil ke branch `output`
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
